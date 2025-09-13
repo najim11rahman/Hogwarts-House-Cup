@@ -25,6 +25,5 @@ def record_stream(delay_range=(0.5, 2)):
         time.sleep(random.uniform(*delay_range))
 
 if __name__ == "__main__":
-    # Example usage
     for rec in record_stream():
         print(json.dumps(rec), flush=True)

@@ -1,4 +1,3 @@
-# app.py
 import sqlite3
 import time
 import json

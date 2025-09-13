@@ -1,4 +1,3 @@
-# data_forwarder.py
 import requests
 import time
 import argparse

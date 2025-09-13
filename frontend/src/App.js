@@ -65,7 +65,6 @@ export default function App() {
           const pct = Math.round((points / maxPoints) * 100);
           return (
             <div key={h.name} style={{ display: "flex", alignItems: "center", marginBottom: 20 }}>
-              {/* Icon with tooltip */}
               <div
                 style={{ width: 80, display: "flex", alignItems: "center", gap: 6, cursor: "pointer" }}
                 title={`${h.name}: ${formatNum(points)}`}
@@ -74,7 +73,6 @@ export default function App() {
                 <span>{h.name}</span>
               </div>
 
-              {/* Progress bar */}
               <div style={{
                 flex: 1,
                 background: "#f2f4f7",
