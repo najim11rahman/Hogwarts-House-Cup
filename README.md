@@ -28,15 +28,8 @@ The leaderboard supports different **time windows** and **live updates** via ser
 ---
 
 ## Folder Structure
-hogwarts_leaderboard/
-├─ backend/ # Flask API + SQLite
-│ ├─ app.py
-│ └─ requirements.txt
-├─ frontend/ # React app
-│ ├─ package.json
-│ └─ src/
-│ └─ App.js
-└─ README.md
+<img width="256" height="193" alt="Screenshot from 2025-09-13 10-42-19" src="https://github.com/user-attachments/assets/cda48b7c-5b27-408e-a684-7c5f41fcf9b5" />
+
 
 ---
 
@@ -44,10 +37,14 @@ hogwarts_leaderboard/
 - Python 3.x
 - Node.js + npm
 ---
+## Screenshot
+<img width="738" height="374" alt="Screenshot from 2025-09-13 10-14-15" src="https://github.com/user-attachments/assets/70589ad7-b7cb-48fc-a4fe-9aa1891531a4" />
+
+---
 
 ## How to Run
 
-- Backend
+Backend ->
 ```bash
 cd backend
 python3 -m venv venv
@@ -57,7 +54,7 @@ python app.py
 
 In another terminal, same folder, run python data_gen.py to start ingesting
 
-- Frontend
+Frontend ->
 ```bash
 cd frontend
 npm install
