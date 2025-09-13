@@ -34,9 +34,22 @@ The leaderboard supports different **time windows** and **live updates** via ser
 ---
 
 ## Requirements
+
+### System
 - Python 3.x
 - Node.js + npm
+
+### Python Dependencies
+- Flask
+- Flask-Cors 
+- SQLite (sqlite3)
+
+### Frontend Dependencies
+- React
+- React-DOM
+- react-scripts
 ---
+
 ## Screenshot
 <img width="738" height="374" alt="Screenshot from 2025-09-13 10-14-15" src="https://github.com/user-attachments/assets/70589ad7-b7cb-48fc-a4fe-9aa1891531a4" />
 
