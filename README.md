@@ -65,7 +65,7 @@ npm start
 
 Open http://localhost:3000 in your browser to see the leaderboard.
 
-- Tech Stack used
+Tech Stack used ->
 ```
 Frontend: React.js
 Backend: Python Flask
