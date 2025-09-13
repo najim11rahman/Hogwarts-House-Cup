@@ -51,8 +51,10 @@ python3 -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
-
-In another terminal, same folder, run python data_gen.py to start ingesting
+```
+In another terminal, same folder run this to start ingesting
+```
+python data_gen.py
 ```
 Frontend ->
 ```bash
