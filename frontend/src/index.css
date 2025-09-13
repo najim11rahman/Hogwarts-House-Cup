@@ -1,0 +1,18 @@
+body { 
+    background:#f8fafc; 
+    margin:0; 
+    padding:20px; 
+}
+
+button { 
+    margin-right:6px; 
+    padding:6px 10px; 
+    border-radius:6px; 
+    border:1px solid #bbb; 
+    background:#fff;
+    cursor:pointer; }
+button.sel { 
+    background:#2b6cb0; 
+    color:#fff; 
+    border-color:#2b6cb0; 
+}
