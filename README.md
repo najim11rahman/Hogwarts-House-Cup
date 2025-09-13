@@ -66,9 +66,10 @@ npm start
 Open http://localhost:3000 in your browser to see the leaderboard.
 
 - Tech Stack used
+```
 Frontend: React.js
 Backend: Python Flask
 Database: SQLite
 Communication: Fetch API + Server-Sent Events (SSE)
 Styling: Inline CSS, responsive progress bars
-
+```
