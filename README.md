@@ -53,7 +53,7 @@ pip install -r requirements.txt
 python app.py
 
 In another terminal, same folder, run python data_gen.py to start ingesting
-
+```
 Frontend ->
 ```bash
 cd frontend
@@ -69,3 +69,4 @@ Backend: Python Flask
 Database: SQLite
 Communication: Fetch API + Server-Sent Events (SSE)
 Styling: Inline CSS, responsive progress bars
+```
