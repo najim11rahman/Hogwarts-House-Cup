@@ -28,8 +28,8 @@ The leaderboard supports different **time windows** and **live updates** via ser
 ---
 
 ## Folder Structure
-<img width="256" height="193" alt="Screenshot from 2025-09-13 10-42-19" src="https://github.com/user-attachments/assets/cda48b7c-5b27-408e-a684-7c5f41fcf9b5" />
 
+<img width="249" height="429" alt="Screenshot from 2025-09-13 10-48-47" src="https://github.com/user-attachments/assets/b81d5fbb-039a-4fe5-9207-6b10213f28e7" />
 
 ---
 
